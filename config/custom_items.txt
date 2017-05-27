@@ -39,3 +39,20 @@
 # kit_icon: salvage
 # }
 ##
+
+{
+ckey: mrgabol100
+character_name: Gabriel Barcia
+item_path: /obj/item/clothing/shoes/jackboots
+item_icon: mrgabol100-blackboots
+item_desc: This is a pair of black boots made for a man, 10 eyelets tall with red laces laced in straight bars style, steel toes, and yellow stitching. They seem to be made of genuine leather, they are quite worn, specially around the toes. They have a black and yellow tab on their upper heel, it reads "AirWair - With Bouncing Soles" in a rather funky lettering.
+}
+
+{
+ckey: mrgabol100
+character_name: Gabriel Barcia
+item_path: /obj/item/clothing/shoes/jackboots
+item_name: cherry boots
+item_icon: mcfluff-cherryboots
+item_desc: This is a pair of cherry red boots made for a woman, 8 eyelets tall with black laces and yellow stitching. They seem to be made of genuine leather with a smooth semi-bright finish. They have a black and yellow tab on their upper heel, it reads "AirWair - With Bouncing Soles" in a rather funky lettering.
+}
